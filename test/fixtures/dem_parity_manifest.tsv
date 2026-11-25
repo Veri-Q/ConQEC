@@ -1,0 +1,2 @@
+source_path	tesseract_family	stim_line_count	stim_byte_count	stim_detector_count	stim_observable_count	stim_tick_count
+simple_dem/r=1,d=3,p=0.01,noise=x,c=fixture,q=7,gates=test.dem	fixture	3	76	2	1	1

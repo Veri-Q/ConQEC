@@ -1,0 +1,5 @@
+.DS_Store
+generated/
+artifacts/witnesses/
+*.jl.cov
+*.mem

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Cite the accompanying paper. For ICSE 2027 Artifact Evaluation, use the version DOI listed in ae/README.md."
+type: software
+license: MIT
+repository-code: https://github.com/Hikari-HN/ConQEC
+title: "ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations"
+authors:
+  - family-names: Li
+    given-names: Zihao
+    orcid: https://orcid.org/0009-0002-1768-6662
+  - family-names: Guan
+    given-names: Ji
+    orcid: https://orcid.org/0000-0002-3490-0029
+  - family-names: Ying
+    given-names: Mingsheng
+    orcid: https://orcid.org/0000-0003-4847-702X
+preferred-citation:
+  type: article
+  title: "ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations"
+  url: https://arxiv.org/abs/2610.31443v1
+  authors:
+    - family-names: Li
+      given-names: Zihao
+    - family-names: Guan
+      given-names: Ji
+    - family-names: Ying
+      given-names: Mingsheng
