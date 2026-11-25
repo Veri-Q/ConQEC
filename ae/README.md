@@ -1,6 +1,6 @@
 # ICSE 2027 artifact
 
-The fixed GitHub software snapshot is [v0.0-icse27-ae](https://github.com/Hikari-HN/ConQEC/releases/tag/v0.0-icse27-ae).
+The fixed GitHub software snapshot is [v0.0-icse27-ae](https://github.com/Veri-Q/ConQEC/releases/tag/v0.0-icse27-ae).
 The associated Zenodo version DOI is
 [10.5281/zenodo.24523358](https://doi.org/10.5281/zenodo.24523358). The DOI has
 been reserved. The draft will become publicly accessible upon publication.
